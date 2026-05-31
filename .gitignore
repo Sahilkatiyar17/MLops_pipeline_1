@@ -220,3 +220,6 @@ __marimo__/
 
 #password file
 pass.txt
+
+logs/
+artifact/
